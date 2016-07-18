@@ -61,27 +61,3 @@ My client redesigned two of the Maybank Rewards microsites and needed me to crea
 Technologies: website-development, responsive-web-design, css, css3, psd-to-html, codeigniter, object-oriented-php, php
 
 ![ProxyServer.com](images/iloverewards.jpg)
-
-# Small Business Websites
-
-Web Development
-
-The site in front is a basic 4 page site I created for a construction company using the Joomla! CMS. The site in back is a pre-existing Wordpress website that I added a custom form to, as well as fixing several bugs in the layout and contact form.
-
-[![ProxyServer.com](images/small-business.jpg)](http://jetiffanyandsons.com)
-
-# eCommerce Modifications
-
-Web Development
-
-I'm mainly a support tech for this eCommerce website. When the owners have problems, they ask me to fix them.
-
-![ProxyServer.com](images/paradise-acres-market.jpg)
-
-# Clean Code Samples
-
-Software Development
-
-These are all samples of work I've handcoded. Samples include a PHP login check, a controller within Symfony2, CSS (and CSS3) for a responsive design, and an HTML form.
-
-![ProxyServer.com](images/clean-code.jpg)
