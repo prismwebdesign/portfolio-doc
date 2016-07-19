@@ -32,6 +32,16 @@ Technologies: javascript, gruntjs, git, jquery, html5, bootstrap, php, symfony
 
 Overall Rating: 5.0
 
+# Connect With Christ
+
+My client needed a church directory site for a new outreach initiative to reach the communities local to each church. As part of this hyper-local effort, we developed a location-guided map page that directed the website visitor to a church page with media produced in their local church. Besides developing the front-end, we built a complete administrator dashboard to allow the management of church listings and their respective media.
+
+![Connect With Christ 1](images/connect-with-christ-1.png)
+
+![Connect With Christ 1](images/connect-with-christ-2.png)
+
+![Connect With Christ 1](images/connect-with-christ-3.png)
+
 # \#ILoveCustomers Campaign
 
 Web Development
@@ -46,7 +56,7 @@ Technologies: user-experience-design, jquery, javascript, wordpress-plugin, word
 
 Web Development
 
-My client, a local District Attorney's office, needed a complete digital evidence management system for their crew of 19 investigators. I created a cusFebruary 2016 | tom system from scratch that included barcode labeling (and printing), extensive administration customization, audits, and reports.
+My client, a local District Attorney's office, needed a complete digital evidence management system for their crew of 19 investigators. I created a custom system from scratch that included barcode labeling (and printing), extensive administration customization, audits, and reports.
 
 Technologies: website-development, web-programming, responsive-web-design, silex-framework, network-security, raspberry-pi, bootstrap, php
 
